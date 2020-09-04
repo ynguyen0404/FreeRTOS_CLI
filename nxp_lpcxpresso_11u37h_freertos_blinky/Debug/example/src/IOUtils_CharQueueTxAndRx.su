@@ -1,0 +1,7 @@
+IOUtils_CharQueueTxAndRx.c:52:6:xIOUtilsSetTxQueueTimeout	24	static
+IOUtils_CharQueueTxAndRx.c:62:6:vIOUtilsSetRxQueueTimeout	24	static
+IOUtils_CharQueueTxAndRx.c:72:15:xIOUtilsConfigureTransferQueue	40	static
+IOUtils_CharQueueTxAndRx.c:139:8:xIOUtilsReceiveCharsFromRxQueue	48	static
+IOUtils_CharQueueTxAndRx.c:169:8:xIOUtilsSendCharsToTxQueue	40	static
+IOUtils_CharQueueTxAndRx.c:199:15:xIOUtilsWaitTxQueueEmpty	32	static
+IOUtils_CharQueueTxAndRx.c:225:6:xIOUtilsClearRxCharQueue	24	static

@@ -1,0 +1,3 @@
+IOUtils_ZeroCopyTx.c:53:15:xIOUtilsConfigureZeroCopyTx	24	static
+IOUtils_ZeroCopyTx.c:108:15:xIOUtilsGetZeroCopyWriteMutex	40	static
+IOUtils_ZeroCopyTx.c:130:15:xIOUtilsReleaseZeroCopyWriteMutex	32	static

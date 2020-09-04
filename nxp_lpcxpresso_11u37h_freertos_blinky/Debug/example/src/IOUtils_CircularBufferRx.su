@@ -1,0 +1,4 @@
+IOUtils_CircularBufferRx.c:52:15:xIOUtilsConfigureCircularBufferRx	24	static
+IOUtils_CircularBufferRx.c:128:6:vIOUtilsClearRxCircularBuffer	24	static
+IOUtils_CircularBufferRx.c:140:15:xIOUtilsReadCharsFromCircularBuffer	40	static
+IOUtils_CircularBufferRx.c:208:6:vIOUtilsSetCircularBufferTimeout	24	static

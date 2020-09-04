@@ -1,0 +1,2 @@
+FreeRTOS_DriverInterface.c:71:25:FreeRTOS_open	48	static
+FreeRTOS_DriverInterface.c:140:15:FreeRTOS_ioctl	40	static
